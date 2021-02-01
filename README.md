@@ -7,6 +7,7 @@ Personal games
 
 3-Number Wizard is a game that lets you guess the number you hold. https://sharemygame.com/@bilgehandk/number-wizard-game
 
+4-Block Breaker is game. If you play, you can use mouse. It has 2 Level. Also, it includes AI play mode.  https://sharemygame.com/@bilgehandk/block-breaker
 
 
 
